@@ -1,0 +1,22 @@
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+ul li {
+    list-style: none
+}
+.header-logo{
+    display: flex;
+    margin-top: 10px;
+    align-items: center
+}
+.header-buttons{
+    display: flex;
+    justify-content: flex-end;
+}
+.pofolio-button{
+    position: relative;
+    top: 7px;
+    
+}
